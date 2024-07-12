@@ -1,6 +1,6 @@
 # FastHTML with Tailwind CSS and Flowbite
 
-This project demonstrates how to set up a FastHTML application with Tailwind CSS and Flowbite, creating a modern and responsive web application using Python.
+This repo is a guide to how to set up a functional example of FastHTML with Tailwind CSS and Flowbite.
 
 ## Requirements
 
@@ -16,9 +16,9 @@ This project demonstrates how to set up a FastHTML application with Tailwind CSS
    ```
 
 2. Install Python dependencies:
-   ```
-   pip install fasthtml
-   ```
+    ```
+    pip install python-fasthtml  
+    ```
 
 3. Install Node.js dependencies:
    ```
