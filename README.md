@@ -1,6 +1,6 @@
 # Flowbite FastHTML Example
 
-This repository serves as a guide and example for integrating FastHTML with Tailwind CSS and Flowbite.
+This repository serves as a guide and example for integrating FastHTML with Tailwind CSS and Flowbite, using the hero section as an example.
 
 ## Part 1: Running the Example
 
