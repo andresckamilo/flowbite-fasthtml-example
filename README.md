@@ -121,7 +121,7 @@ npx tailwindcss -i ./src/styles/main.css -o ./static/dist/css/output.css --watch
 
 2. In another terminal, start the FastHTML application:
    ```
-   python src/app.py
+   uvicorn app:app --reload 
    ```
 
 3. Open your browser and visit `http://localhost:8080`
