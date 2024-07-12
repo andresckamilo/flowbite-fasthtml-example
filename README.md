@@ -99,7 +99,10 @@ from starlette.staticfiles import StaticFiles
 from components import hero_section
 
 app = FastHTMLWithLiveReload(
-    hdrs=(Link(rel="stylesheet", href="/static/dist/css/output.css"),)
+    hdrs=(
+        Link(rel="stylesheet", href="/static/dist/css/output.css"),
+        Script(src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.0/flowbite.min.js", defer=True)
+    )
 )
 app.mount("/static", StaticFiles(directory="../static"), name="static")
 
