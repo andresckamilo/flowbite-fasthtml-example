@@ -11,8 +11,8 @@ This project demonstrates how to set up a FastHTML application with Tailwind CSS
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fasthtml-tailwind-flowbite.git
-   cd fasthtml-tailwind-flowbite
+   git clone https://github.com/andresckamilo/flowbite-fasthtml-example.git
+   cd flowbite-fasthtml-example
    ```
 
 2. Install Python dependencies:
@@ -28,7 +28,7 @@ This project demonstrates how to set up a FastHTML application with Tailwind CSS
 ## Project Structure
 
 ```
-fasthtml-tailwind-flowbite/
+flowbite-fasthtml-example/
 ├── src/
 │   ├── app.py
 │   ├── components.py
